@@ -3,7 +3,7 @@ public class Demo { public static void main(String[] args) { System.out.println(
 =======
 public class Demo 
 { public static void main(String[] args) { 
-System.out.println("Hello Feature2"); 
+System.out.println("Hello Feature1"); 
 } 
 }
 >>>>>>> Feature2
